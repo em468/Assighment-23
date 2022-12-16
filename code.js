@@ -6,8 +6,8 @@ hello (" Can you find the secert message");
 
 
 
-function secertMessage(message) {
+function secretMessage(message) {
     console.log("The secret message is " + message);
 
 }
-hello (" i love my cats <3"); 
+secretMessage (" i love my cats <3"); 
