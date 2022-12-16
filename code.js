@@ -10,4 +10,4 @@ function secretMessage(message) {
     console.log("The secret message is " + message);
 
 }
-secretMessage (" i love my cats <3"); 
+secretMessage(" i love my cats <3");
